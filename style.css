@@ -82,7 +82,7 @@ body {
   text-align: center;
 }
 
-.user-image {
+.cat-image {
   margin: 0 0 32px;
   text-align: center;
 }
@@ -93,6 +93,28 @@ body {
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
+}
+
+.intro figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.intro figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
+
+.intro figcaption {
+
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(202, 224, 248);
+  margin: 0 0 32px;
+  text-align: center;
 }
 
 .intro p {
